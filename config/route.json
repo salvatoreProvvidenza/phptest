@@ -1,0 +1,5 @@
+{
+  "user" :{
+    "controller" : "controller/users/UsersController.php"
+  }
+}
